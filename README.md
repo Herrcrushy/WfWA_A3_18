@@ -7,7 +7,7 @@ LaTeX-Unterlagen
 
 Inhalt
 
-<---->
+$\leftrightarrow$
 
 Der Inhalt entspricht dem Text der Aufgabe 2 des Modul.
 
